@@ -1,0 +1,15 @@
+.container{
+    background-color: gray;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+.children{
+    background-color: pink;
+    width: 20%;
+    height: 20%;
+    margin:10px;
+}
